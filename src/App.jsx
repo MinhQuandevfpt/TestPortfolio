@@ -8,7 +8,7 @@ import NavbarMain from './components/navbar/NavbarMain'
 
 
 function App() {
-  return <main className='font-body'> 
+  return <main className='font-body overflow-x-hidden'> 
     <NavbarMain />
     <HeroMain />
     <HeroGradient />
