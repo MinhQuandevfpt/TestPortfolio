@@ -6,4 +6,5 @@
 
 body {
   @apply bg-darkBrown;
+  overflow-x: hidden;
 }
